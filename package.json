@@ -1,0 +1,16 @@
+{
+    "name": "framework-chibios",
+    "version": "20.3.3",
+    "description": "ChibiOS is a complete development environment for embedded applications including RTOS, an HAL, peripheral drivers, support files and tools.",
+    "keywords": [
+      "framework",
+      "arm"
+    ],
+    "homepage": "http://www.chibios.org",
+    "license": "GPL-3.0",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/rbarreiros/ChibiOS.git"
+    }
+  }
+  
